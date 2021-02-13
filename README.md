@@ -1,6 +1,6 @@
-# Mail App
+# Healthy Information Application
 
-Mail App is a demo Healthy UI
+Healthy Information Application is a demo Healthy UI
 
 ## Installation
 
